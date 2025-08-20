@@ -1,3 +1,4 @@
+![Bot](https://github.com/Neemakinya-23/Chatbot/blob/main/Tesco_%20grocery_chatbot.png)
 # Tesco Customer Service Chatbot
 
 A Python-based chatbot that answers **Tesco online grocery FAQs**. The chatbot uses **NLTK for natural language processing** and a simple **Flask web server** to provide responses via a browser interface. The front end is built with **HTML/CSS**.
